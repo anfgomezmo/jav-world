@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.javworld" name="JAV World" version="0.0.1" provider-name="Wildux">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_gb">Online JAV</summary>
+    <description lang="en_gb">JAV from:
+    
+    · Bejav.com
+    · vjav.com
+    · javhihi.com
+    · jav789.com
+    · japaneseporn18.com
+    · javstreams.tv
+    · youjav.net
+    · javsex.net
+    · javonline.me
+    </description>
+    <disclaimer lang="en_gb"></disclaimer>
+    <language>en</language>
+    <platform>all</platform>
+    <license>GNU GPL 3</license>
+    <forum></forum>
+    <website></website>
+    <email>joanrc93@gmail.com</email>
+    <source></source>
+  </extension>
+</addon>
